@@ -1,7 +1,5 @@
 # Predicting-Water-Quality-Index-in-Irish-Rivers-with-Explainable-Machine-Learning
 
-# Predicting Water Quality Index in Irish Rivers with Explainable Machine Learning
-
 ## Overview
 
 This project focuses on predicting the Water Quality Index (WQI) of Irish rivers using machine learning techniques and explainable artificial intelligence (XAI). The objective is to develop predictive models that can estimate river water quality based on environmental and water quality parameters while providing insights into the factors influencing the predictions.
