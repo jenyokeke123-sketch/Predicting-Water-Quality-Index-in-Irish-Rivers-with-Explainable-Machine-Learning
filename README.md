@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/github_banner.png" width="100%">
+  <img src="Images/Banner.png" width="100%">
 </p>
 
 <p align="center">
@@ -142,7 +142,7 @@ A gradient boosting model designed to achieve high predictive accuracy while han
 
 ### Distribution of Water Quality Index
 
-![Alkarinity Versus WQI Plot](Results/Alkarinity Versus WQI scatter-plot.png)
+![Alkarinity Versus WQI Plot](Results/Alkalinity versus WQI scatter-plot.png)
 
 ### Correlation Analysis
 
@@ -156,15 +156,15 @@ SHAP (SHapley Additive exPlanations) was applied to interpret the predictions ge
 
 ### SHAP Analysis – Linear Regression
 
-![SHAP Linear Regression](results/shap_linear.png)
+![SHAP Linear Regression](Results/shap_linear.png)
 
 ### SHAP Analysis – Random Forest
 
-![SHAP Random Forest](results/shap_rf.png)
+![SHAP Random Forest](Results/shap_rf.png)
 
 ### SHAP Analysis – XGBoost
 
-![SHAP XGBoost](results/shap_xgb.png)
+![SHAP XGBoost](Results/shap_xgb.png)
 
 ---
 
