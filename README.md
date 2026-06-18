@@ -138,15 +138,15 @@ A gradient boosting model designed to achieve high predictive accuracy while han
 
 ### Distribution of Water Quality Index
 
-![Distribution of CCME Values](Results/Distribution of CCME values.png)
+![Distribution of CCME Values](Results/CCME_values.png)
 
 ### Distribution of Water Quality Index
 
-![Alkarinity Versus WQI Plot](Results/Alkalinity versus WQI scatter-plot.png)
+![Alkarinity Versus WQI Plot](Results/scatter-plot.png)
 
 ### Correlation Analysis
 
-![Correlation Heatmap](Results/Correlation Heatmap.png)
+![Correlation Heatmap](Results/Correlation-Heatmap.png)
 
 ---
 
