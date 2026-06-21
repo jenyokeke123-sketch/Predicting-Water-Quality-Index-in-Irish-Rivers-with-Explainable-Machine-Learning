@@ -282,7 +282,7 @@ report/Final_Report.pdf
 
 ## Author
 
-Jeniffer
+Michelle Obi
 
 MSc Research Project
 
